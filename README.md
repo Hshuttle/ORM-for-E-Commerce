@@ -16,7 +16,7 @@ An Object Relational Mapping tool that will help establish and navigate an E-Com
   use npm i in the command line
   <h2 id="usage">Usage Information</h2>
   Go to the following google drive link to view a video going over how to use this app. </br>
-  link to video: https://watch.screencastify.com/v/iDFITH6QXj5GolzY1juy
+  link to video: https://watch.screencastify.com/v/qtJIXmSv2beEpx9uicTB
   
   <h2 id="contribution">Contribution Guidelines</h2>
   No contributors
